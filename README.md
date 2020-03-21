@@ -1,6 +1,6 @@
 # Dolly Parton Challenge
 
-[Dolly Parton Challenge](http://s3.emerson.link/prints/2020-03-21-134741-mxqee.png)
+![Dolly Parton Challenge](http://s3.emerson.link/prints/2020-03-21-134741-mxqee.png 'Dolly Parton Challenge')
 
 ### DEMO
 
@@ -11,7 +11,10 @@ O conteúdo desse repositório, faz parte do material didático do curso "Dev Se
 Para saber mais informações sobre o curso, preço, turmas e tudo mais, faça seu cadastro em
 [https://emersonbroga.com/participe](https://emersonbroga.com/participe)
 
+### Repositórios
+
 Backend: https://github.com/emersonbroga/dollypartonchallenge-backend
+
 Frontend: https://github.com/emersonbroga/dollypartonchallenge-client
 
 #### Se ainda não segue, conheça as nossas Redes Sociais
